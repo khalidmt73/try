@@ -5,6 +5,7 @@ public static void main(String[] args){
 
 	//System.out.println("khalid");
 	System.out.println("update program");
+	System.out.pritln("Ok");
 
 }
 
